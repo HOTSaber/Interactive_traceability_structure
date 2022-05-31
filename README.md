@@ -3,9 +3,10 @@
 程序须知：
 1. ipfshttpclient version 0.8.0a2
 2. ipfs version 0.8.0
-3. 文件20至2000000为手工创建，用于存储不同量级下的仿真数据与溯源结果
-4. Raw_image文件件存储仿真原图像文件
-5. 目标交易链结构：
+3. 需要运行ipfs 监听程序
+4. 文件20至2000000为手工创建，用于存储不同量级下的仿真数据与溯源结果
+5. Raw_image文件件存储仿真原图像文件
+6. 目标交易链结构：
 
 ![image](https://github.com/aucnm/Interactive_traceability_structure/blob/master/target_chain_structure/target_chain_structure.jpg)
 
