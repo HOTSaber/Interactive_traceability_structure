@@ -15,4 +15,4 @@
 3. loop_json_search.py -->在不同量级下进行链上溯源，并在20W_200W_json_search_results.csv中记录溯源耗时
 4. Figure_results_20W_200W_.py --> 不同方法耗时对比
 
-论文相关数据已上传release
+论文相关数据已上传[release](https://github.com/aucnm/Interactive_traceability_structure/releases/tag/simulation_data)
